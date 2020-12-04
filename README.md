@@ -1,2 +1,2 @@
 # Tugas-Python
-Ferdian Ilham Ramadhan
+Ferdian Ilham Ramadhan - 1101194160
